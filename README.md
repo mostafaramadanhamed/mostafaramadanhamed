@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mostafa Ramadan</h1>
 <h3 align="center"> Mobile applications developer 📱</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafaramadanhamed&label=Profile%20views&color=0e75b6&style=flat" alt="mostafaramadanhamed" /> </p>
+
+
 
 - 🔭 I’m currently working on **whatsApp cloner**
 
