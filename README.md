@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **whatsApp cloner**
+- 🔭 I’m currently working on **New Project**
 
 - 🌱 I’m currently learning **Clean architecture**
 
