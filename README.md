@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Full Project**
 
-- 🌱 I’m currently learning **Clean architecture**
+- 🌱 I’m currently learning **Payments in flutter**
 
 - 👨‍💻 All of my projects are available at [Repos](Repos)
 
