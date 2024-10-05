@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Full Project**
+- 🔭 I’m currently working on **Ensure (Social media) app**
 
 - 🌱 I’m currently learning **advanced topics in flutter**
 
